@@ -1,7 +1,0 @@
-{
-  "groups": [
-    {"name": "Education and research", "items": ["Educational research", "Education policy"]},
-    {"name": "Media", "items": ["Photography", "Cinematography", "Educational video"]},
-    {"name": "Technology", "items": ["Educational technology"]}
-  ]
-}
