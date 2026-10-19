@@ -1,0 +1,17 @@
+{
+  "site_title": "Fazal Hossen Pranto | Education, Research and Visual Storytelling",
+  "description": "Portfolio of Fazal Hossen Pranto, undergraduate student of Educational Administration at NSTU, Bangladesh.",
+  "theme": {"bg": "#0b1426", "surface": "#13213b", "text": "#f2efe8", "muted": "#a9b4c8", "accent": "#7fc4c9"},
+  "fonts": {"heading": "Fraunces", "body": "Inter"},
+  "radius": 14,
+  "hero_layout": "split",
+  "sections": [
+    {"id": "about", "title": "About", "visible": true, "layout": "grid"},
+    {"id": "research", "title": "Academic & Research", "visible": true, "layout": "grid"},
+    {"id": "content", "title": "Content Creation", "visible": true, "layout": "grid"},
+    {"id": "projects", "title": "Projects", "visible": true, "layout": "grid"},
+    {"id": "skills", "title": "Skills", "visible": true, "layout": "grid"},
+    {"id": "leadership", "title": "Leadership & Activities", "visible": true, "layout": "list"},
+    {"id": "contact", "title": "Contact", "visible": true, "layout": "grid"}
+  ]
+}
